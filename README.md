@@ -1,8 +1,7 @@
 # raspi-bootstrap-weather
 weather monitor on external display
 
-TEST</br>
-</br>
+TEST version</br>
 1: install raspbian</br>
 2: sudo apt-get install epiphany-browser x11-xserver-utils xautomation unclutter</br>
 3: copy startEPI.sh to home (like: ~/home/pi/.startEPI.sh)</br>
